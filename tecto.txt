@@ -2,3 +2,6 @@
 modificacion de archivo
 
 lalla
+
+continuacion desde vs code
+
